@@ -1,9 +1,10 @@
-## Code for "MotionNet: Joint Perception and Motion Prediction for Autonomous Driving Based on Bird's Eye View Maps", CVPR, 2020
+## MotionNet: Joint Perception and Motion Prediction for Autonomous Driving Based on Bird's Eye View Maps, CVPR, 2020. [Paper Link](https://arxiv.org/pdf/2003.06754.pdf)
 
-<del>Due to the policy of Mitsubishi Electric Research Laboratories (MERL), we had to withdraw our original repository of MotionNet. To avoid unnecessary legal issues, please withdraw and delete the forked and related code.</del>
+![](https://github.com/pxiangwu/MotionNet/blob/master/teaser/example.gif "")
 
-<del>We are really sorry about the inconvenience, and thank you for your understanding.</del>
+![](https://github.com/pxiangwu/MotionNet/blob/master/teaser/example2.gif "")
 
-We will release the code on the official website of [MERL](https://www.merl.com/research/computer-vision#free), hopefully before the opening of CVPR conference. 
 
-Currently if you have questions regarding the code, please contact Pengxiang Wu (pxiangwu@gmail.com).
+The code can be downloaded from the official website of [MERL](https://www.merl.com/research/?research=license-request&sw=MotionNet).
+
+If you have any questions regarding the code, please open an issue here or contact Pengxiang Wu (pxiangwu@gmail.com).
